@@ -1,0 +1,4 @@
+# ninja log v5
+4	217	7216513825341407	build.ninja	5b4a33097c1884ce
+0	1071	7216514059664849	CMakeFiles/competitiveProg.dir/Sorting_and_Searching/BubbleSort.cpp.obj	e85fb44a81ee1278
+1073	1154	7216514060492295	competitiveProg.exe	628371ba770c2208
